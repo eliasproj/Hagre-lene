@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Metema inc MEMBERS CONFERENCE</title>
+</head>
+<body>
+<h1>Metema corporate annual registration</h1>
+<h2>Registration page</h2>
+<form>
+<label>First name:</label>
+<input type="text"><br/>
+<label>Middle initial:</label>
+<input type="text"><br/>
+<label>Last name:</label>
+<input type="text"></br>
+
+
+
+
+<input type="Submit" value="Save">
+
+</body>
+
+</html>
